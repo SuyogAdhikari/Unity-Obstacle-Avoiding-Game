@@ -1,4 +1,5 @@
 # Unity-Obstacle-Avoiding-Game
+## For PC only
 The First game i made in Unity 3D using C#.<br>
 for executable game use the following link
 
